@@ -1,6 +1,9 @@
 # Amazon-S3-Storage-Static-Hosting-PoC
 
 
+![EC2 Web Output](s3-bkt-img.png) 
+
+
 ![EC2 Web Output](s3-bkt.png) 
 
 
